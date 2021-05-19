@@ -1,0 +1,155 @@
+header{
+    background-color: black;
+    margin: 0px;
+    padding: 30px;
+}
+
+header > p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#pres{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    color: blue;
+    display: flex;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#intro{
+    background-color: white;
+    border: black 1px;
+    margin: 10px;
+}
+
+#text-intro{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.reportes{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 35px;
+    color: black;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#info{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    color: deeppink;
+    display: flex;
+    text-align: center;
+}
+
+#pride{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    color: darkviolet;
+    display: flex;
+    text-align: center;
+}
+
+#valores{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/*@media screen and (max-width: 600px){
+    img{
+        width: 100%;
+    }
+
+    header > p{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        color: whitesmoke;
+        margin: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    #pres{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 30px;
+        color: blue;
+        display: flex;
+        text-align: center;
+    }
+    
+    .container{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    #intro{
+        background-color: white;
+        border: black 1px;
+        margin: 10px;
+    }
+    
+    #text-intro{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-family: 15px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .reportes{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-family: 35px;
+        color: black;
+        display: inline;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #info{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 30px;
+        color: deeppink;
+        display: flex;
+        text-align: center;
+    }
+    
+    #pride{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 30px;
+        color: darkviolet;
+        display: flex;
+        text-align: center;
+    }
+}*/
